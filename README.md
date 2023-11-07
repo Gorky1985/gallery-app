@@ -9,7 +9,7 @@ Based on a Video Course made by Sandy Ludosky I created a:
 
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - ReactJS - Context API, client-side routing with React-Router V6
 - Firebase - Firestore Database, Storage, Authentication, Hosting
 
